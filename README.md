@@ -1,6 +1,9 @@
 ## Learning OpenGL and Rust
 This is another project that I am doing to learn Rust. I have always wanted to do some graphics programming so why not kill two birds with one stone. I was following this tutorial -> [Rust and OpenGL from scratch](https://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html)
 
+![image](https://github.com/KeaganErasmus/triangle/assets/30564181/f71b7a4b-0b3b-46f7-8641-cb2b0dfbfd16)
+
+
 # Tools used
 * Rust
 * gl-rs
